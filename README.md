@@ -2,14 +2,21 @@ Arion
 =====
 
 Sasquatch Labs Arion designed by Jason Marcus as an exercise for Sasquatch Labs
+
 ar3929 (http://forums.openpilot.org/user/10774-ar3929)
 
 Designers include:
 
 mghyatt (https://www.youtube.com/channel/UC33PfJWcyKvKQgNuMl39FQQ) 
+
 tothehilt (https://www.youtube.com/user/matthewghyatt)
+
 gearwolf (https://www.youtube.com/channel/UC3hxpZu7FxzWRr7U07uL-lA)
+
+labcopilot (https://www.youtube.com/user/labcopilot
+) 
 kfinisterre (https://twitter.com/dronesavant)
+
 TyLilly (https://twitter.com/sasquatch_labs)
 
 This frame was meant to satisfy the caviar tastes of mghyatt with regard to a lightweight, STRONG, Acro frame.
