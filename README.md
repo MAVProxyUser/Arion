@@ -5,6 +5,9 @@ Sasquatch Labs Arion designed by Jason Marcus as an exercise for Sasquatch Labs
 
 ar3929 (http://forums.openpilot.org/user/10774-ar3929)
 
+Created in Pro/ENGINEER  TM  Wildfire 3.0
+http://www.ptc.com
+
 Designers include:
 
 mghyatt (https://www.youtube.com/channel/UC33PfJWcyKvKQgNuMl39FQQ) 
